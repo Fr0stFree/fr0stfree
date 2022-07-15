@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Danila! </h2>
 <h3 align="center"> Python backend developer student from Russia 🇷🇺 </h3>
 
-[![codewars](https://www.codewars.com/users/FrostFree/badges/large)](https://www.codewars.com/users/FrostFree)
+[![codewars](https://www.codewars.com/users/FrostFree/badges/small)](https://www.codewars.com/users/FrostFree)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -12,3 +12,5 @@
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+
+<h3 align="left"> Contact me: </h3>
