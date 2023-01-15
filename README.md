@@ -32,6 +32,8 @@
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 <i>dev</i>
 ---
+<h5><i>message me</i></h5>
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fr0stfree)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danila-krasov-15959b245/)
 <h5 align='right'>Huge thanks to <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a> for these beautiful badges</h5>
