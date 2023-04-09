@@ -19,8 +19,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Yandex Cloud](https://img.shields.io/badge/yandex-%23FF0000.svg?&style=for-the-badge&logo=yandex&logoColor=white)
 
-<br>
+![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0stfree&theme=blue-green)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fr0stfree)
-<h5 align='right'>Huge thanks to <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a> for these beautiful badges</h5>
