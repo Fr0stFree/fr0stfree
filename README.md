@@ -1,26 +1,64 @@
-### Hi there, I'm Danila!
-#### Python developer from Russia
-
-[![codewars](https://www.codewars.com/users/FrostFree/badges/small)](https://www.codewars.com/users/FrostFree)
-[![LeetCode user Fr0stFree](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFr0stFree&logo=leetcode&logoColor=yellow)](https://leetcode.com/Fr0stFree/)
-
-#### Technologies I use
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
----
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
----
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
----
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Yandex Cloud](https://img.shields.io/badge/yandex-%23FF0000.svg?&style=for-the-badge&logo=yandex&logoColor=white)
-
-![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0stfree&theme=blue-green)
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fr0stfree)
+<article>
+  <h3>Hi there, I'm <a href="https://t.me/fr0stfree">Danila</a>!</h3>
+  <h4>Python developer from Russia</h4>
+  <a href="https://www.codewars.com/users/FrostFree">
+     <img title="CodeWars Profile"
+          src="https://www.codewars.com/users/FrostFree/badges/small" />
+  </a>
+  <a href="https://leetcode.com/Fr0stFree/">
+     <img title="LeetCode Profile"
+          src="https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFr0stFree&logo=leetcode&logoColor=yellow" />
+  </a>
+</article>
+<article>
+  <h4>Technologies I use</h4>
+  <div style="display: flex">
+    <a href="https://www.python.org/">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    </a>
+    <a href="https://fastapi.tiangolo.com/">
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+    </a>
+    <a href="https://www.djangoproject.com/">
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+    </a>
+  </div>
+  <div style="display: flex">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    </a>
+    <a href="https://react.dev/">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    </a>
+  </div>
+  <div style="display: flex">
+    <a href="https://www.postgresql.org/">
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </a>
+    <a href="https://www.mongodb.com/">
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </a>
+    <a href="https://redis.io/">
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+    </a>
+  </div>
+  <div style="display: flex">
+    <a href="https://ubuntu.com/">
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    </a>
+    <a href="https://www.nginx.com/">
+      <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+    </a>
+    <a href="https://www.docker.com/">
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    </a>
+    <a href="https://cloud.yandex.com/en-ru">
+       <img title="Yandex Cloud"
+            src="https://img.shields.io/badge/yandex-%23FF0000.svg?&style=for-the-badge&logo=yandex&logoColor=white" />
+    </a>
+  </div>
+</article>
+<br>
+<article>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr0stfree&theme=blue-green" />
+</article>
