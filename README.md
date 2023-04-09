@@ -2,6 +2,7 @@
 #### Python developer from Russia
 
 [![codewars](https://www.codewars.com/users/FrostFree/badges/small)](https://www.codewars.com/users/FrostFree)
+[![LeetCode user Fr0stFree](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFr0stFree&logo=leetcode&logoColor=yellow)](https://leetcode.com/Fr0stFree/)
 
 #### Technologies I use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,8 +19,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
----
-<h5><i>message me</i></h5>
+
+<br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fr0stfree)
 <h5 align='right'>Huge thanks to <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a> for these beautiful badges</h5>
