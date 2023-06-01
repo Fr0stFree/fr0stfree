@@ -1,6 +1,6 @@
 <article>
   <h3>Hi there, I'm Danila</h3>
-  <h4>Python developer from Russia</h4>
+  <h4>Web developer from Russia</h4>
   <a href="https://www.codewars.com/users/FrostFree">
      <img title="CodeWars Profile"
           src="https://www.codewars.com/users/FrostFree/badges/small" />
