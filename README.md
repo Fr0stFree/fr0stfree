@@ -16,19 +16,22 @@
     <a href="https://www.python.org/">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    </a>
+  </div>
+  <div style="display: flex">
     <a href="https://fastapi.tiangolo.com/">
       <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
     </a>
     <a href="https://www.djangoproject.com/">
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
     </a>
-  </div>
-  <div style="display: flex">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    </a>
     <a href="https://react.dev/">
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    </a>
+    <a href="https://nodejs.org/en">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     </a>
   </div>
   <div style="display: flex">
