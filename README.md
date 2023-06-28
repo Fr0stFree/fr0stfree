@@ -10,6 +10,7 @@
           src="https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFr0stFree&logo=leetcode&logoColor=yellow" />
   </a>
 </article>
+
 <article>
   <h4>Technologies I use</h4>
   <div style="display: flex">
@@ -61,7 +62,9 @@
     </a>
   </div>
 </article>
+
 <br>
+
 <article>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr0stfree&theme=blue-green" />
 </article>
