@@ -1,4 +1,3 @@
-
 <article>
   <h3>Hi there, I'm Danila</h3>
   <h4>Web developer from Russia</h4>
@@ -11,7 +10,6 @@
           src="https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFr0stFree&logo=leetcode&logoColor=yellow" />
   </a>
 </article>
-
 <article>
   <h4>Technologies I use</h4>
   <div style="display: flex">
