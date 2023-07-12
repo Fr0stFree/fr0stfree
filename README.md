@@ -44,6 +44,9 @@
     <a href="https://redis.io/">
       <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
     </a>
+    <a href="https://www.rabbitmq.com/">
+      <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+    </a>
   </div>
   <div style="display: flex">
     <a href="https://ubuntu.com/">
