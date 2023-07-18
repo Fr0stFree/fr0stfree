@@ -1,5 +1,5 @@
 <article>
-  <h3>Hi there, I'm Danila</h3>
+  <h3>Hello there, I'm Danila</h3>
   <h4>Web developer from Russia</h4>
   <a href="https://www.codewars.com/users/FrostFree">
      <img title="CodeWars Profile"
@@ -12,7 +12,7 @@
 </article>
 
 <article>
-  <h4>Technologies I use</h4>
+  <h4>Tech stack</h4>
   <div style="display: flex">
     <a href="https://www.python.org/">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
