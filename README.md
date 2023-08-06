@@ -61,7 +61,7 @@
     </a>
     <a href="https://cloud.yandex.com/en-ru">
        <img title="Yandex Cloud"
-            src="https://img.shields.io/badge/yandex-%23FF0000.svg?&style=for-the-badge&logo=yandex&logoColor=white" />
+            src="https://img.shields.io/badge/Yandex.Cloud-FC3F1D?&style=for-the-badge&logoColor=white" />
     </a>
   </div>
 </article>
