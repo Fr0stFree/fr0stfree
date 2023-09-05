@@ -45,8 +45,20 @@
     <a href="https://redis.io/">
       <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
     </a>
-
+    <a href="https://www.elastic.co/elasticsearch/">
+      <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" />
+    </a>
   </div>
+
+  <div style="display: flex">
+    <a href="https://www.rabbitmq.com/">
+      <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+    </a>
+    <a href="https://kafka.apache.org/">
+       <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
+    </a>
+  </div>
+
   <div style="display: flex">
     <a href="https://cloud.yandex.com/en-ru">
        <img src="https://img.shields.io/badge/Yandex.Cloud-FC3F1D?&style=for-the-badge&logoColor=white&logo=googlecloud" />
@@ -56,9 +68,6 @@
     </a>
     <a href="https://www.docker.com/">
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-    </a>
-    <a href="https://www.rabbitmq.com/">
-      <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
     </a>
   </div>
 </article>
