@@ -52,7 +52,6 @@
       <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" />
     </a>
   </div>
-
   <div style="display: flex">
     <a href="https://www.rabbitmq.com/">
       <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
