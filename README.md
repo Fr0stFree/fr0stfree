@@ -70,9 +70,9 @@
     <a href="">
       <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
     </a>
-<!--     <a href="">
+    <a href="">
       <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
-    </a> -->
+    </a>
     <a href="https://www.nginx.com/">
       <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
     </a>
