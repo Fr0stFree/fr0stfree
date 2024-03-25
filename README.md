@@ -16,11 +16,14 @@
     <a href="https://www.python.org/">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     </a>
-    <a href="">
+    <a href="https://www.gnu.org/software/bash/manual/bash.html">
       <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    </a>
+    <a href="https://www.typescriptlang.org/">
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     </a>
   </div>
   <div style="display: flex">
