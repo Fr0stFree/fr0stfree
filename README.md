@@ -1,7 +1,7 @@
 <article>
     <section>
-        <h3>Hello there, I'm Danila</h3>
-        <h4>Software Engineer</h4>
+        <h3>Danila</h3>
+        <p>Software Engineer</p>
         <a href="https://www.codewars.com/users/FrostFree">
             <img title="CodeWars Profile"
                  src="https://www.codewars.com/users/FrostFree/badges/small"/>
