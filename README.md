@@ -1,6 +1,5 @@
 <article>
     <section>
-        <h3>Danila</h3>
         <p>Software Engineer</p>
         <a href="https://www.codewars.com/users/FrostFree">
             <img title="CodeWars Profile"
