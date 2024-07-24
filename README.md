@@ -61,8 +61,6 @@
             <a href="https://kafka.apache.org/">
                 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
             </a>
-        </div>
-        <div style="display: flex">
             <a href="https://docs.celeryq.dev/en/stable/">
                 <img src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4"/>
             </a>
