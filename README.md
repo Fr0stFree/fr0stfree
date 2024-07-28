@@ -78,9 +78,9 @@
             <a href="">
                 <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
             </a>
-            <!--      <a href="">
-                  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
-                </a>  -->
+             <a href="">
+                <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+            </a> 
             <a href="https://cloud.yandex.com/en-ru">
                 <img src="https://img.shields.io/badge/Yandex.Cloud-FC3F1D?&style=for-the-badge&logoColor=white&logo=googlecloud"/>
             </a>
