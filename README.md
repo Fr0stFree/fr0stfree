@@ -1,6 +1,6 @@
 <article>
     <section>
-        <p>Software Engineer / Web Developer</p>
+        <h3>Software Engineer / Web Developer</h3>
         <a href="https://www.codewars.com/users/FrostFree">
             <img title="CodeWars Profile"
                  src="https://www.codewars.com/users/FrostFree/badges/small"/>
@@ -10,6 +10,7 @@
                  src="https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFr0stFree&logo=leetcode&logoColor=yellow"/>
         </a>
     </section>
+    <br>
     <section>
         <h4>Tech stack</h4>
         <div style="display: flex">
@@ -86,5 +87,6 @@
             </a>
         </div>
     </section>
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr0stfree&theme=blue-green"/>
 </article>
