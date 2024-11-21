@@ -82,7 +82,7 @@
             <a href="https://www.jenkins.io/">
                 <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
             </a>
-             <a href="">
+             <a href="https://www.ansible.com/">
                 <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
             </a> 
             <a href="https://cloud.yandex.com/en-ru">
