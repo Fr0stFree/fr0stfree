@@ -26,9 +26,6 @@
             <a href="https://www.typescriptlang.org/">
                 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
             </a>
-            <a href="https://www.gnu.org/software/bash/manual/bash.html">
-                <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-            </a>
         </div>
         <div style="display: flex">
             <a href="https://fastapi.tiangolo.com/">
@@ -68,8 +65,8 @@
             <a href="https://docs.celeryq.dev/en/stable/">
                 <img src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4"/>
             </a>
-            <a href="https://www.nginx.com/">
-                <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+            <a href="https://temporal.io/">
+                <img src="https://img.shields.io/badge/temporal-844FBA?logo=temporal&style=for-the-badge"/>
             </a>
         </div>
         <div style="display: flex">
@@ -84,7 +81,10 @@
             </a>
              <a href="https://www.ansible.com/">
                 <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
-            </a> 
+            </a>
+            <a href="https://www.nginx.com/">
+                <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+            </a>
             <a href="https://cloud.yandex.com/en-ru">
                 <img src="https://img.shields.io/badge/Yandex.Cloud-FC3F1D?&style=for-the-badge&logoColor=white&logo=googlecloud"/>
             </a>
