@@ -17,7 +17,7 @@
             <a href="https://www.python.org/">
                 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
             </a>
-            <a href="#">
+            <a href="https://go.dev/">
                 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
             </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
