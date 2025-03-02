@@ -1,6 +1,6 @@
 <article>
     <section>
-        <h3>Software Engineer / Web Developer</h3>
+        <h3>Software Engineer</h3>
         <a href="https://www.codewars.com/users/FrostFree">
             <img title="CodeWars Profile"
                  src="https://www.codewars.com/users/FrostFree/badges/small"/>
