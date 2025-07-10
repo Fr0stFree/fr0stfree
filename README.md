@@ -70,9 +70,9 @@
             </a>
         </div>
         <div style="display: flex">
-            <a href="https://www.vagrantup.com/">
+<!--             <a href="https://www.vagrantup.com/">
                 <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"/>
-            </a>
+            </a> -->
             <a href="https://www.docker.com/">
                 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
             </a>
