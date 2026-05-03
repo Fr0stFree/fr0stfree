@@ -23,8 +23,8 @@
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
                 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
             </a>
-            <a href="https://www.typescriptlang.org/">
-                <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+            <a href="https://scala-lang.org/">
+                <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/>
             </a>
         </div>
         <div style="display: flex">
