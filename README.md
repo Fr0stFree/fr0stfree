@@ -1,100 +1,54 @@
-<article>
-    <section>
-        <h3>Software Engineer</h3>
-        <a href="https://www.codewars.com/users/FrostFree">
-            <img title="CodeWars Profile"
-                 src="https://www.codewars.com/users/FrostFree/badges/small"/>
-        </a>
-        <a href="https://leetcode.com/Fr0stFree/">
-            <img title="LeetCode Profile"
-                 src="https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFr0stFree&logo=leetcode&logoColor=yellow"/>
-        </a>
-    </section>
-    <br>
-    <section>
-        <h4>Tech stack</h4>
-        <div style="display: flex">
-            <a href="https://www.python.org/">
-                <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-            </a>
-            <a href="https://go.dev/">
-                <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-            </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-            </a>
-            <a href="https://scala-lang.org/">
-                <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/>
-            </a>
-        </div>
-        <div style="display: flex">
-            <a href="https://fastapi.tiangolo.com/">
-                <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-            </a>
-            <a href="https://www.djangoproject.com/">
-                <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
-            </a>
-            <a href="https://react.dev/">
-                <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-            </a>
-            <a href="https://nodejs.org/en">
-                <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-            </a>
-        </div>
-        <div style="display: flex">
-            <a href="https://www.postgresql.org/">
-                <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-            </a>
-            <a href="https://www.mongodb.com/">
-                <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-            </a>
-            <a href="https://redis.io/">
-                <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-            </a>
-            <a href="https://www.elastic.co/elasticsearch/">
-                <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
-            </a>
-        </div>
-        <div style="display: flex">
-            <a href="https://www.rabbitmq.com/">
-                <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-            </a>
-            <a href="https://kafka.apache.org/">
-                <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
-            </a>
-            <a href="https://docs.celeryq.dev/en/stable/">
-                <img src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4"/>
-            </a>
-            <a href="https://temporal.io/">
-                <img src="https://img.shields.io/badge/temporal-844FBA?logo=temporal&style=for-the-badge"/>
-            </a>
-        </div>
-        <div style="display: flex">
-<!--             <a href="https://www.vagrantup.com/">
-                <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"/>
-            </a> -->
-            <a href="https://www.docker.com/">
-                <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-            </a>
-            <a href="https://kubernetes.io/">
-                <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-            </a>
-             <a href="https://www.ansible.com/">
-                <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
-            </a>
-            <a href="https://www.jenkins.io/">
-                <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
-            </a>
-            <a href="https://www.terraform.io/">
-                <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
-            </a>
-        </div>
-        <div style="display: flex">
-            <a href="https://cloud.yandex.com/en-ru">
-                <img src="https://img.shields.io/badge/Yandex.Cloud-FC3F1D?&style=for-the-badge&logoColor=white&logo=googlecloud"/>
-            </a>
-        </div>
-    </section>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr0stfree&theme=blue-green"/>
-</article>
+## Hi, I'm Danila 👋
+
+### Senior Backend Engineer
+
+Backend engineer focused on building reliable and scalable services, distributed systems, and backend infrastructure.
+
+Primarily working with **Python** and **Go**. Interested in distributed systems, system design, observability, infrastructure, and software architecture.
+
+---
+
+### Tech Stack
+
+#### Languages
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+#### Databases & Storage
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
+
+#### Messaging & Distributed Systems
+
+[![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)](https://docs.celeryq.dev/)
+[![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white)](https://temporal.io/)
+
+#### Infrastructure & DevOps
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-5282FF?style=for-the-badge&logo=yandexcloud&logoColor=white)](https://yandex.cloud/)
+
+---
+
+### Coding
+
+<a href="https://www.codewars.com/users/FrostFree">
+  <img alt="Codewars Profile" src="https://www.codewars.com/users/FrostFree/badges/small">
+</a>
+
+<a href="https://leetcode.com/Fr0stFree/">
+  <img alt="LeetCode Profile" src="https://img.shields.io/badge/LeetCode-Fr0stFree-FFA116?style=flat&logo=leetcode&logoColor=white">
+</a>
+
