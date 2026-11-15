@@ -1,6 +1,6 @@
 ## Hi, I'm Danila 👋
 
-### Senior Backend Engineer
+### Backend Engineer
 
 Backend engineer focused on building reliable and scalable services, distributed systems, and backend infrastructure.
 
